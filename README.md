@@ -4,7 +4,7 @@ A simple windows python application to generate common templates like a HTML, CS
 ## Getting Started
 * Recommended Operating System : Windows 10/11  
 
-### How to start the application
+### How to start the program
 
 * Step 1: Open the project directory
 * Step 2: Open the terminal in the present working directory i.e. the project directory.
