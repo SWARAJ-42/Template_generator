@@ -12,6 +12,16 @@ A simple windows python application to generate common templates like a HTML, CS
 ```
 python files_generator.py
 ```
+### How to use it as an application
+I have made an executable too to make it usable by anyone.
+
+* Step 1: Open the output/file_generator/ directory
+* Step 2: Search for the file file_generator.exe
+* Step 3: add the path of the file to environmental variables
+* Step 4: After adding you can execute the file anywhere on the user environment by running file_generator.exe on powershell.
+
+### Note
+* This project is not compatible with any linux distributions at the moment.
 
 ## Author
 
