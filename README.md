@@ -1,4 +1,4 @@
-# Template-Generator
+# Template Generator
 A simple windows python application to generate common templates like a HTML, CSS, Javascript folder or a folder with 100 python files with common and numbered filenames.
 
 ## Getting Started
